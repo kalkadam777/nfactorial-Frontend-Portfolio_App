@@ -11,8 +11,9 @@ function About() {
                     <p>About me</p>
                 </div>
                 <div className='text_about'>
-                    <p>I`m software developer and this is my portfolio.</p>
-                    <p>I`m software developer and this is my portfolio. I`m software developer and this is my portfolio. I`m software developer and this is my portfolio.</p>
+                    <p>Hello, my name is Koyshybay Erkebulan and I am taking my first steps towards Frontend development profession.
+I                       have mastered HTML, CSS, Js, React, Git, a little knowledge of Angular and I continue to improve my skills in these areas.
+                     </p>
                 </div>
                 <div className='div_contain'>
                     <div className='div1'>
@@ -21,7 +22,7 @@ function About() {
                                 <img src={pointer} alt="pointer" />
                             </div>
                             <div>
-                                <p>Lorem Ipsum Description Text</p>
+                                <p>HTML</p>
                             </div>
                         </div>
                         <div className='imgAndtext'>
@@ -29,7 +30,7 @@ function About() {
                                 <img src={pointer} alt="pointer" />
                             </div>
                             <div>
-                                <p>Lorem Ipsum Description Text</p>
+                                <p>CSS</p>
                             </div>
                         </div>
                     </div>
@@ -40,7 +41,7 @@ function About() {
                                 <img src={pointer} alt="pointer" />
                             </div>
                             <div>
-                                <p>Lorem Ipsum Description Text</p>
+                                <p>React</p>
                             </div>
                         </div>
                         <div className='imgAndtext'>
@@ -48,7 +49,7 @@ function About() {
                                 <img src={pointer} alt="pointer" />
                             </div>
                             <div>
-                                <p>Lorem Ipsum Description Text</p>
+                                <p>JavaScript</p>
                             </div>
                         </div>
                     </div>

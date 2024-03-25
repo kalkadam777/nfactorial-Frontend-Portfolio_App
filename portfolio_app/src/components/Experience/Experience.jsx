@@ -36,7 +36,7 @@ function Experience() {
 
                 <div className='first'>
                     <div className='date_d'>
-                        <p>2021-2022</p>
+                        <p>2020-2019</p>
                     </div>
 
                     <div className='about_d'>
@@ -52,15 +52,14 @@ function Experience() {
                             <div className='city'>Country, City</div>
                         </div>
                         <div className='about_work'>
-                            <p>I’m software developer and this is my portfolio.
-                            I’m software developer and this is my portfolio. I’m software developer and this is my portfolio. I’m software developer and this is my portfolio.</p>
+                            <p>I’m software developer and this is my portfolio.</p>
                         </div>
                     </div>
                 </div>
 
                 <div className='first'>
                     <div className='date_d'>
-                        <p>2021-2022</p>
+                        <p>2019</p>
                     </div>
 
                     <div className='about_d'>

@@ -7,7 +7,7 @@ function Header() {
     return (
         <div className='container'>
             <div className='left_side'>
-                <Link to="/"><p>Your Name</p></Link>
+                <Link to="/"><p>Portfolio</p></Link>
             </div>
 
             <div className='right_side'>
