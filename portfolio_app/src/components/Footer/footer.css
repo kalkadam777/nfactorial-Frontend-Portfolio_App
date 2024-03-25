@@ -1,0 +1,28 @@
+
+
+.footer {
+    /* margin-top: 240px; */
+    padding: 32px 80px 32px 80px;
+}
+
+.footer_content {
+    display: flex;
+    flex-direction: row;
+    gap: 679px;
+    
+}
+
+.first_text {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    color:rgba(255, 255, 255, 1);
+}
+
+.second_text {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    opacity: 50%;
+    color: rgba(255, 255, 255, 1);
+}

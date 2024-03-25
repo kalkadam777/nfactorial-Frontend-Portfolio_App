@@ -1,0 +1,46 @@
+.container_about {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 370px;
+    padding: 160px 80px 160px 80px;
+}
+
+.left_content {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.div_about {
+    font-family: 'Courier New';
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.text_about {
+    font-family: Kanit;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.div_contain {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.imgAndtext {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}

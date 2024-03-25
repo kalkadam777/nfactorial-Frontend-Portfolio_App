@@ -1,0 +1,52 @@
+.project_p {
+    font-family: 'Courier New';
+    font-size: 60px;
+    font-weight: 700;
+    padding: 160px 80px 64px 80px;
+}
+
+.about_project1 {
+    display: flex;
+    flex-direction: row;
+    gap: 186px;
+    justify-content: center;
+    padding: 64px 80px 64px 80px;
+}
+
+.right_cont {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.div_second {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.project_name {
+    font-family: 'Courier New';
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.project_about {
+    font-family: Kanit;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.divka1 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.about_project2 {
+    display: flex;
+    flex-direction: row;
+    gap: 186px;
+    justify-content: center;
+    padding: 64px 80px 64px 80px;
+}
