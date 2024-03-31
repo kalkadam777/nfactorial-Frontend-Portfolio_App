@@ -2,7 +2,7 @@
     font-family: 'Courier New';
     font-size: 60px;
     font-weight: 700;
-    padding: 160px 80px 64px 80px;
+    padding: 100px 80px 64px 80px;
 }
 
 .about_project1 {
@@ -31,17 +31,18 @@
     font-weight: 700;
 }
 
+.project_img{
+    width: 626px;
+    height: 388px;
+    border:  solid rgba(253, 90, 20, 1) 4px;
+}
+
 .project_about {
     font-family: Kanit;
     font-size: 20px;
     font-weight: 300;
 }
 
-.divka1 {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
 
 .about_project2 {
     display: flex;
@@ -49,4 +50,18 @@
     gap: 186px;
     justify-content: center;
     padding: 64px 80px 64px 80px;
+}
+
+.tech-stack {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+.skill {
+    border-radius: 999px;
+    padding: 6px 14px;
+    background-color: rgb(65, 53, 79);
+    font-size: 16px;
 }

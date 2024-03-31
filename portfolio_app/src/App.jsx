@@ -11,23 +11,22 @@ import Project from './components/Project/Project'
 import Experience from './components/Experience/Experience'
 import Home from './components/Home/Home';
 
+
 function App() {
 
 
   return (
     <Router>
-    <div>
 
       <Header/>
 
       <Routes>
-        <Route path="/" element={<Promo />} />
+        <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/experience" element={<Experience />} />
         <Route path="/projects" element={<Project />} />
         <Route path="/contacts" element={<Contact />} />
       </Routes>
-    </div>
 
     <Footer/>
   </Router>

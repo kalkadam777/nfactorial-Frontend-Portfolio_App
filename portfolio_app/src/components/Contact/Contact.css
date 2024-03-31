@@ -36,3 +36,17 @@
     background-color: rgba(253, 90, 20, 1);
     padding: 16px 24px 16px 24px;
 }
+
+.list_contact {
+    list-style: none;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+}
+
+.icon {
+    height: 24px;
+    width: 24px;
+}
+
